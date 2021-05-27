@@ -1,0 +1,8 @@
+prefix=/home/lifan/rc/kh_remote_xbox/src/udp_car/cmake-build-debug/devel
+
+Name: udp_car
+Description: Description of udp_car
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp

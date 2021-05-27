@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lifan/rc/kh_remote_xbox/src/udp_car/cmake-build-debug/devel/setup.sh

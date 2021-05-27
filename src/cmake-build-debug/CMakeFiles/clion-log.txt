@@ -1,0 +1,36 @@
+/home/lifan/clion-2019.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lifan/rc/kh_remote_xbox/src
+-- Using CATKIN_DEVEL_PREFIX: /home/lifan/rc/kh_remote_xbox/src/cmake-build-debug/devel
+-- Using CMAKE_PREFIX_PATH: /home/lifan/rc/kh_remote_xbox/devel;/opt/ros/kinetic
+-- This workspace overlays: /home/lifan/rc/kh_remote_xbox/devel;/opt/ros/kinetic
+-- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.12", minimum required is "2") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python2
+-- Using Debian Python package layout
+-- Using empy: /usr/bin/empy
+-- Using CATKIN_ENABLE_TESTING: ON
+-- Call enable_testing()
+-- Using CATKIN_TEST_RESULTS_DIR: /home/lifan/rc/kh_remote_xbox/src/cmake-build-debug/test_results
+-- Found gtest sources under '/usr/src/gmock': gtests will be built
+-- Found gmock sources under '/usr/src/gmock': gmock will be built
+-- Found PythonInterp: /usr/bin/python2 (found version "2.7.12") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - not found
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - found
+-- Found Threads: TRUE  
+-- Using Python nosetests: /usr/bin/nosetests-2.7
+-- catkin 0.7.29
+-- BUILD_SHARED_LIBS is on
+-- BUILD_SHARED_LIBS is on
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- ~~  traversing 1 packages in topological order:
+-- ~~  - udp_car
+-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-- +++ processing catkin package: 'udp_car'
+-- ==> add_subdirectory(udp_car)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lifan/rc/kh_remote_xbox/src/cmake-build-debug
